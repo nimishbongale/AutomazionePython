@@ -1,3 +1,9 @@
+"""
+Author @nimishbongale
+Version 1.0.2
+Date 22/01/2019
+A program which plots any algebraic variable separable equation 
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 fig, ax = plt.subplots()
