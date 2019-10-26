@@ -1,0 +1,6 @@
+WheatFlour 1kg 25.00
+RiceFlour 1kg 40.00 
+MoongFlour 1kg 75.00
+Sugar 1kg 40.00
+Saboodana 1kg 65.00
+Arrowroot 1kg 40.00
